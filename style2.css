@@ -1,0 +1,19 @@
+
+*{
+    text-decoration:none;
+    }
+    .navbar{
+    background:green;font-family:comic sans ms;padding-right:15px;padding-left:15px;
+    }
+    .navdiv{
+    display:flex;align-items:center;justify-content:space-between;
+    }
+    .logo {
+    font-size:35px;color:white;font-family:impact;
+    }
+    li{
+    list-style:none;display:inline-block;
+    }
+    li a{
+    color:white;font-size:18px;font-weight:bold;margin-right:35px;
+    }

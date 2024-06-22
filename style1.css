@@ -1,0 +1,18 @@
+*{
+    text-decoration:none;
+    }
+    .navbar{
+    background:aqua;font-family:comic sans ms;padding-right:15px;padding-left:15px;
+    }
+    .navdiv{
+    display:flex;align-items:center;justify-content:space-between;
+    }
+    .logo {
+    font-size:35px;color:black;font-family:impact;
+    }
+    li{
+    list-style:none;display:inline-block;
+    }
+    li a{
+    color:black;font-size:18px;font-weight:bold;margin-right:35px;
+    }
